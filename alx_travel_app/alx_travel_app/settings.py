@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     "celery",
     "rest_framework",
     "drf_yasg",
+    "listings",
 ]
 
 MIDDLEWARE = [
